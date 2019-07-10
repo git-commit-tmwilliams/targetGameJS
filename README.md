@@ -1,2 +1,2 @@
-# ShootingRangeGame
-The final project for our Computer Graphics
+# targetGameJS
+This is a final project from Computer Graphics
